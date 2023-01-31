@@ -3,10 +3,10 @@
 Base Model
 
 """
-import collections
+from collections.abc import Iterable
 
 
-class Model(collections.Iterable):
+class Model(Iterable):
     """A model contains an __attribute__ map that defines the name,
     its type for type validation, an optional validation method, a method
     used to
