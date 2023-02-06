@@ -1,7 +1,7 @@
 Version History
 ===============
  
-1.1.0+fc2 (unreleased)
+1.1.0+fc2 (2023-02-06)
 ~~~~~~~~~~~~~~~~~~~~~~
 
 - Fix support for Python 3.10+

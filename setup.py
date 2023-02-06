@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='consulate',
-    version='1.1.0+fc2.dev0',
+    version='1.1.0+fc2',
     description='A Client library and command line application for the Consul',
     maintainer='Gavin M. Roy',
     maintainer_email='gavinr@aweber.com',
