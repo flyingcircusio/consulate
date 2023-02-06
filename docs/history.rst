@@ -1,6 +1,12 @@
 Version History
 ===============
  - 1.0.0
+1.1.0+fc2 (unreleased)
+                      
+
+- Nothing changed yet.
+
+
 1.1.0+fc1 (2023-02-06)
     - Removed support for Python 2.6 which has been EOLed since 2013
     - Removed the deprecated (since 0.3) `consulate.Session` handle
