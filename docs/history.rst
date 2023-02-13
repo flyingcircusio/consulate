@@ -1,7 +1,7 @@
 Version History
 ===============
  
-1.1.0+fc3 (unreleased)
+1.1.0+fc3 (2023-02-13)
 ~~~~~~~~~~~~~~~~~~~~~~
 
 - Nothing changed yet.
