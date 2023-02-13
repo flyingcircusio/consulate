@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='consulate-fc-nix-test',
-    version='1.1.0+fc3',
+    version='1.1.0+fc4.dev0',
     description='A Client library and command line application for the Consul',
     maintainer='Christian Theune',
     maintainer_email='ct@flyingcircus.io',
