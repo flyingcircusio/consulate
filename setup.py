@@ -1,11 +1,9 @@
 import setuptools
 
 setuptools.setup(
-    name='consulate-fc-nix-test',
+    name='consulate',
     version='1.1.0a2.dev0',
     description='A Client library and command line application for the Consul',
-    maintainer='Christian Theune',
-    maintainer_email='ct@flyingcircus.io',
     url='https://consulate.readthedocs.org',
     install_requires=['requests>=2.0.0,<3.0.0'],
     extras_require={'unixsocket': ['requests-unixsocket>=0.1.4,<=1.0.0']},
