@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="consulate",
-    version="1.1.0a2.dev0",
+    version="1.1.1dev0",
     description="A Client library and command line application for the Consul",
     url="https://consulate.readthedocs.org",
     install_requires=["requests>=2.0.0,<3.0.0"],
